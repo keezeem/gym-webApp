@@ -38,7 +38,6 @@ const Banner = () => {
           data-aos='fade-right' 
           data-aos-delay='900'
         >
-          image
         </div>
       </div>
     </div>
